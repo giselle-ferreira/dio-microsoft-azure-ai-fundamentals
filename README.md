@@ -1,6 +1,10 @@
 ![image](https://github.com/giselle-ferreira/dio-microsoft-azure-ai-fundamentals/assets/84051263/f731c1bd-45d3-4fad-b6d2-5530c52e6aaf)
 
-Atividades Realizadas durante o Bootcamp Microsoft Azure AI Fundamentals, da [Dio,me](https://dio.me)
+</br>
+
+Atividades Realizadas durante o Bootcamp Microsoft Azure AI Fundamentals, da [Dio.me](https://dio.me)
+
+</br>
 
 ##
 
