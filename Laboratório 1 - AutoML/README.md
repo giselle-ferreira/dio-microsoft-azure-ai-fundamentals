@@ -1,6 +1,7 @@
 # automl-microsoft-azure
 
 - Passo a passo de experimento de Aprendizagem Automatizada, de Regressão, utilizando A **Azure Machine Learning**, realizado como desafio de projeto no Bootcamp **Microsoft Azure AI Fundamentals** da [Dio.me](https://dio.me)
+- Documentação: [https://aka.ms/ai900-auto-ml](https://aka.ms/ai900-auto-ml)
 
 <br/>
 
